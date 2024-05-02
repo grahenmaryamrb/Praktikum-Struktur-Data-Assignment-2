@@ -209,7 +209,7 @@ int main(){
 }
 ```
 #### Output:
-![Screenshot (437)]
+![Screenshot 2024-05-02 220346](https://github.com/grahenmaryamrb/Praktikum-Struktur-Data-Assignment-2/assets/168741067/c2b52077-7783-468f-b21e-b50f90a00988)
 ### Penjelasan
 Program di atas merupakan program untuk output dengan data yang diinputkan oleh user.
 
@@ -232,9 +232,7 @@ int main(){
     int x_size, y_size, z_size;
 
     // Memasukkan jumlah dan ukuran elemen array
-    cout << "==================================" << endl;
     cout << "   Array tiga dimensi (x, y, z)" << endl;
-    cout << "==================================" << endl;
     cout << "\nMasukkan ukuran matriks array: ";
     cin >> x_size;
     cout << "\nMasukkan ukuran baris array: ";
@@ -284,7 +282,7 @@ int main(){
 }
 ```
 #### Output:
-![Screenshot (438)]
+![Screenshot 2024-05-02 220427](https://github.com/grahenmaryamrb/Praktikum-Struktur-Data-Assignment-2/assets/168741067/fe26574e-c7b2-48da-b5ce-182112477032)
 ### Penjelasan
 Program diatas merupakan program yang dirancang untuk membuat dan mengelola sebuah array tiga dimensi berdasarkan ukuran yang dimasukkan oleh user. 
 
@@ -378,7 +376,7 @@ int main() {
 }
 ```
 #### Output:
-![Screenshot (440)]
+![Screenshot 2024-05-02 220452](https://github.com/grahenmaryamrb/Praktikum-Struktur-Data-Assignment-2/assets/168741067/85a70e15-f257-4778-926d-950cc82c1b94)
 ### Penjelasan
 Program diatas merupakan program untuk mencari nilai maksimum, minimum, dan rata-rata dari sebuah array yang panjang dan elemennya ditentukan oleh user. 
 
